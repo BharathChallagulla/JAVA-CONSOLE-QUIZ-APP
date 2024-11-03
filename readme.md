@@ -1,7 +1,3 @@
-Here's a sample README for your Java quiz application:
-
----
-
 # Java Quiz Application
 
 This Java application is a simple console-based quiz that tests users' knowledge of Java fundamentals. The quiz contains five questions, each with four multiple-choice options. Users can select their answer for each question, and at the end of the quiz, the application will display the final score based on the correct answers.
